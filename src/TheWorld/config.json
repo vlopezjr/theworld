@@ -1,0 +1,8 @@
+{
+  "AppSettings": {
+    "SiteEmailAddress": "me@aol.com"
+  },
+  "Data": {
+    "WoldContextConnection": "Data Source=sql15dev;Initial Catalog=TheWorldDB;User ID=sa;Password=C3l5ius;"
+  }
+}
