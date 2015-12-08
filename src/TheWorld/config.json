@@ -3,6 +3,7 @@
     "SiteEmailAddress": "me@aol.com"
   },
   "Data": {
-    "WoldContextConnection": "Data Source=sql15dev;Initial Catalog=TheWorldDB;User ID=sa;Password=C3l5ius;"
+    "WoldContextConnection": "Data Source=sql15dev;Initial Catalog=TheWorldDB;User ID=sa;Password=C3l5ius;",
+    "WoldContextConnectionHome": "Server=(localdb)\\ProjectsV12;Database=TheWorldDb;Trusted_Connection=true;MultipleActiveResultSets=true"
   }
 }
